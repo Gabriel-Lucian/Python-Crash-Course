@@ -1,4 +1,10 @@
 """
+A string is a series of characters. Anything inside quotes is considered
+a string in Python, and you can use single or double quotes around your
+strings like this:
+>>> "This is a string."
+>>> 'This is also a string.'
+
  --- Changing Case in a String with Methods ---
 One of the simplest tasks you can do with strings is change the case of the
 words in a string. Look at the following code, and try to determine what’s
@@ -20,3 +26,4 @@ name = "Gabriel Nechifor"
 
 print(name.upper())
 print(name.lower())
+
