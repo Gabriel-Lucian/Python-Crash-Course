@@ -7,7 +7,7 @@ Then print the name using each of the three stripping functions, lstrip(),
 rstrip(), and strip().
 """
 
-name = "\tGabriel \n\tNechifpr\t g   "
+name = "\tGabriel \n\tNechifpr\t g      "
 
 print(name)
 print(name.strip())
