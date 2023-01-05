@@ -5,4 +5,6 @@ that message.
 """
 
 favorite_number = 9
-print(f"Hey this in my favorite number: {favorite_number}")
+favorite_number_new = f"Hey this in my favorite number: {favorite_number}"
+print(favorite_number_new)
+
